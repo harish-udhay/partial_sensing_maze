@@ -1,1 +1,1 @@
-# partial_sensing_maze
+# partial_sensing
